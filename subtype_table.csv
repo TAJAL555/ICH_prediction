@@ -1,0 +1,7 @@
+subtype,Positive .dcm Files,Total .dcm Files
+any,107933,752803
+epidural,3145,752803
+intraparenchymal,36118,752803
+intraventricular,26205,752803
+subarachnoid,35675,752803
+subdural,47166,752803
